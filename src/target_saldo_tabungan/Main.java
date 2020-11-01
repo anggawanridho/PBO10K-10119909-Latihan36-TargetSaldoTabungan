@@ -2,6 +2,13 @@ package target_saldo_tabungan;
 
 import java.util.Locale;
 
+/**
+ * @author
+ * NAMA     : Muhammad Anggawan Ridho Islami
+ * KELAS    : IF 10K
+ * NIM      : 10119909
+ */
+
 public class Main {
 
     public static void main(String[] args) {
