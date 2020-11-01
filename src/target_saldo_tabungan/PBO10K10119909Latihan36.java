@@ -9,7 +9,7 @@ import java.util.Locale;
  * NIM      : 10119909
  */
 
-public class Main {
+public class PBO10K10119909Latihan36 {
 
     public static void main(String[] args) {
         TargetSaldoTabungan saldo = new TargetSaldoTabungan();
